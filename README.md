@@ -3,6 +3,8 @@ Greetings!
  
 Want to know how to make script like this? Visit me at pynist.blogspot.com! 
 
+<hr />
+
 ##What does it do?
 Display N top questions as well as the highest upvoted answer based on a given tag.
 
