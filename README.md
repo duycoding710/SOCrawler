@@ -1,7 +1,7 @@
 # SOCrawler
 Greetings! 
  
-Want to know how to make script like this? Visit me at pynist.blogspot.com! 
+Want to know how to make scripts like this? Visit me at pynist.blogspot.com! 
 
 <hr />
 
