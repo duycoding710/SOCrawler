@@ -8,7 +8,8 @@ Want to know how to make script like this? Visit me at pynist.blogspot.com!
 ## What does it do?
 Display N top questions as well as the highest upvoted answer based on a given tag.
 
-## How to excute?
+## How to execute?
+Change to directory containing `socrawler.py`, open terminal and type:
 ```
 chmod +x socrawler.py
 ./socrawler.py <N> <TAG>
