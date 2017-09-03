@@ -11,8 +11,8 @@ Display N top questions as well as the highest upvoted answer based on a given t
 ## How to execute?
 Change to directory containing `socrawler.py`, open terminal and type:
 ```
-chmod +x socrawler.py
-./socrawler.py <N> <TAG>
+$ chmod +x socrawler.py
+$ ./socrawler.py <N> <TAG>
 ``` 
 
 ## Contact
